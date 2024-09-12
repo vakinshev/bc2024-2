@@ -1,1 +1,1 @@
-http://backend.course#username=vakinshev
+http://backend.course#vakinshev
