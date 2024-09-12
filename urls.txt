@@ -1,1 +1,2 @@
 http://backend.course#vakinshev
+http://backend.course?name="Акіншев Владислав"&github_name=vakinshev&group="ФЕІ-21с"&subgroup="Підгрупа 2"
